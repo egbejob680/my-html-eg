@@ -38,3 +38,33 @@
     border-left: none;
     border-top: none;
 }
+
+@media(max-width:900px){
+    .section{
+        margin-top: 80px;
+        flex-basis: 12%;
+        border-radius: 10px ;
+       margin-right: 5%;
+       margin-left: 0%;
+        box-shadow: 0 0 6px 0 rgba(0,0,0, 0.6);
+        padding: 8px;
+    }
+    .container{
+        display: flex;
+        text-align: center;
+        
+       
+    }
+    .photo{
+        background-color: rgb(180, 170, 170);
+        box-shadow:0 0 3px 0 rgba(0, 0,0, 0.8);
+        padding: 0.87%;
+        margin: 0%;
+        margin-bottom: 67%;
+        margin-right: 89%;
+        border: 4px solid black;
+        
+     }
+}
+
+
