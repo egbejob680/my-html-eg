@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(216, 84, 106);
+}
+
+.section{
+    margin-top: 80px;
+    flex-basis: 31%;
+    margin-right: 520px;
+    margin-left: 560px;
+    box-shadow: 0 5px 23px 0 rgba(0,0,0, 0.6);
+    padding: 8px;
+    background-color: rgb(1, 1, 59);
+    display:block;
+    margin: 10%;
+}
+h1{
+    color: white;
+    font-family: sans-serif;
+    font-size: normal;
+    text-align: center;
+}
+#Email{
+    margin-top: 20px;
+}
+input{
+    display:block;
+    margin-left: 20px;
+    border-radius: none;
+    border-top: none;
+   background-color: rgb(1, 1, 59);
+   border-left: none;
+   border-right: none;
+   color: white;
+   width: 90%;
+   
+
+  
+}
+#txt{
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color:  rgb(1, 1, 59);
+    color: white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 90%;
+}
+button{
+    width: 39%;
+    padding: 1%;
+    border: none;
+    border-radius: 50px;
+    margin-left: 20%;   
+    font-family: sans-serif;
+    font-size: large;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: rgb(216, 84, 106);
+    color: white;
+    margin-top: 30px;
+
+}
